@@ -1,4 +1,4 @@
-# Log of #100DaysofCode - Started June 22, 2020 (Monday)
+# Log of #100DaysofCode - Started June 22, 2020
 
 ### Day 1: June 22, 2020 (Monday)
 **Today's Progress**: I'm already on Week 2 of HarvardX CS50. I think it's really helping get in the right state of mind
