@@ -13,7 +13,9 @@ this.
 **Today's Progess**: Watched Week 3 Lecture. I've decided to space the main lecture, supplementary videos, and problem sets
 on different days just so I don't get bogged down. I'm trying to "attend" this like a real class, and man do I miss college.
 
+I also finished FreeCodeCamp's HTML and HTML5 lessons. Is it possible I'm trying to learn too many things at once? Well, as long as these bits and pieces are being used towards a final project (my interactive fanfiction project... hahaha) then it should be okay.
+
 Another project concurrent to CS50 is learning Twine. I have sooo many unfinished Twine and story projects, and I want to take
-this opportunity to turn it more interesting by creating interactive experiences. I started a tutorial because my only knowledge of Twine previous to this was scene to scene to scene. And now I'm making inventories and stuff. Crazy!
+this opportunity to turn it more interesting by creating interactive experiences. I started a tutorial because my only knowledge of Twine previous to this was scene to scene to scene. And now I'm making inventories and stuff. Already going through some JavaScript stuff. Crazy!
 
 **Thoughts**: To keep myself accountable, I should probably post these on Instagram. I might be able to make journey-mates there.
