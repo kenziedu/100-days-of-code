@@ -19,3 +19,10 @@ Another project concurrent to CS50 is learning Twine. I have sooo many unfinishe
 this opportunity to turn it more interesting by creating interactive experiences. I started a tutorial because my only knowledge of Twine previous to this was scene to scene to scene. And now I'm making inventories and stuff. Already going through some JavaScript stuff. Crazy!
 
 **Thoughts**: To keep myself accountable, I should probably post these on Instagram. I might be able to make journey-mates there.
+
+### Day 3: June 24, 2020 (Wednesday)
+**Today's Progress**: Focused on FreeCodeCamp's CSS for beginners walkthrough. This will be useful for my CYOA game I **need** to finish by August. I'm creating it in Harlowe, but I think I need to move it to Sugarcube just so it's more robust. My fear is really making the scope so big. Everything just gets so much more complex the longer I am staring at it. But this labor of love should just be simple. I've already mapped out the game in my head, plus the datamaps and variables and whatnot that I have to include. What's important is the writing of course, but gosh, I'm excited to share this with fellow fans, haha.
+
+I watched the CS50 Week 3 shorts and looked at the Plurality problem set. It seems simple but ya really have to catch the hints in the lecture and such to get it correctly. I'm pretty proud of myself for not really being a chump on the coding part, but the mathematical thinking really stumps me. I'm an embarassment of a Management Engineering student, yikes.
+
+**Thoughts**: Confession: before the start of this commitment to learning how to code earlier this month, I have started typing while looking at the screen. I'm 26 years of age but I have been typing while looking at the keyboard all my life. I'm an embarassment HAHAHA. But now that I've been typing more that aren't just short emails and such, I've watched the words form and my fingers just move super rapidly.
