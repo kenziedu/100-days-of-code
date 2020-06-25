@@ -26,3 +26,8 @@ this opportunity to turn it more interesting by creating interactive experiences
 I watched the CS50 Week 3 shorts and looked at the Plurality problem set. It seems simple but ya really have to catch the hints in the lecture and such to get it correctly. I'm pretty proud of myself for not really being a chump on the coding part, but the mathematical thinking really stumps me. I'm an embarassment of a Management Engineering student, yikes.
 
 **Thoughts**: Confession: before the start of this commitment to learning how to code earlier this month, I have started typing while looking at the screen. I'm 26 years of age but I have been typing while looking at the keyboard all my life. I'm an embarassment HAHAHA. But now that I've been typing more that aren't just short emails and such, I've watched the words form and my fingers just move super rapidly.
+
+### Day 4: June 25, 2020 (Thursday)
+**Today's Progress**: Felt really dumb for the first Problem Set. I feel like I need to allott a day on each part. Thinks click after I walk away after an hour. An then boom I understand. I felt kind of bad for not being able to do it as quickly as I'd like. But that's how it goes. I think my pacing is okay and that I'm keeping a strict weekly schedule so I don't slip.
+
+**Thoughts**: This amount of information that you have to discern which parts are useful at the given moment in time reminds me so much of college. I can't believe I pushed through all of that. Now is another crunch time, understanding concepts kind of learning system. Gotta digest this ASAP.
