@@ -31,3 +31,8 @@ I watched the CS50 Week 3 shorts and looked at the Plurality problem set. It see
 **Today's Progress**: Felt really dumb for the first Problem Set. I feel like I need to allott a day on each part. Thinks click after I walk away after an hour. An then boom I understand. I felt kind of bad for not being able to do it as quickly as I'd like. But that's how it goes. I think my pacing is okay and that I'm keeping a strict weekly schedule so I don't slip.
 
 **Thoughts**: This amount of information that you have to discern which parts are useful at the given moment in time reminds me so much of college. I can't believe I pushed through all of that. Now is another crunch time, understanding concepts kind of learning system. Gotta digest this ASAP.
+
+### Day 5: June 26, 2020 (Friday)
+**Today's Progress**: Finally finished and submitted Plurality. It really is just a matter of walking away from the part and then coming back. I swear it just clicks after a while! All I had to do was clean up a bit and remind myself of the specific instructions. I am very, very motivated.
+
+**Thoughts**: Entering the CS50 course, I really wanted to make it a point to stretch my brainpower. Never to look at any solutions and just the guides that are available. I swear everytime I am stuck, going back to my man Doug Lloyd (haha)'s videos makes it suddenly click. Like, I look really funny thinking hard at my desk and writing code "running" on my notebook just to understand the concept, but that EUREKA moment is so addicting. Of course these are really simple things, and brings me back to my financial modelling days. 
