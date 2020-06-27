@@ -36,3 +36,8 @@ I watched the CS50 Week 3 shorts and looked at the Plurality problem set. It see
 **Today's Progress**: Finally finished and submitted Plurality. It really is just a matter of walking away from the part and then coming back. I swear it just clicks after a while! All I had to do was clean up a bit and remind myself of the specific instructions. I am very, very motivated.
 
 **Thoughts**: Entering the CS50 course, I really wanted to make it a point to stretch my brainpower. Never to look at any solutions and just the guides that are available. I swear everytime I am stuck, going back to my man Doug Lloyd (haha)'s videos makes it suddenly click. Like, I look really funny thinking hard at my desk and writing code "running" on my notebook just to understand the concept, but that EUREKA moment is so addicting. Of course these are really simple things, and brings me back to my financial modelling days. 
+
+### Day 6: June 27, 2020 (Saturday)
+**Today's Progress**: Yikes, Runoff is taking so much brainpower from me. Six whole functions to piece together. I just got through the first part - and now getting a bit stuck on the 2nd. I guess it really will take walking away and going back, as it so happens. I guess the amount of time I'm spending is just keeping me off schedule. But gotta work through that.
+
+**Thoughts**: ACK! I'm so slow! I really want to commit and not look at any solutions, but my God, I am spending so much time just thinking through something. It makes me feel so dumb. It's really getting me off track but I hope to finish everything by end of August.
