@@ -41,3 +41,8 @@ I watched the CS50 Week 3 shorts and looked at the Plurality problem set. It see
 **Today's Progress**: Yikes, Runoff is taking so much brainpower from me. Six whole functions to piece together. I just got through the first part - and now getting a bit stuck on the 2nd. I guess it really will take walking away and going back, as it so happens. I guess the amount of time I'm spending is just keeping me off schedule. But gotta work through that.
 
 **Thoughts**: ACK! I'm so slow! I really want to commit and not look at any solutions, but my God, I am spending so much time just thinking through something. It makes me feel so dumb. It's really getting me off track but I hope to finish everything by end of August.
+
+### Day 7: June 28, 2020 (Sunday)
+**Today's Progress**: Wow... did I say 2 days ago that I was encouraged? Well... This next PSET is doing the roundabout on me and driving me a little crazy. I think I'm gonna take an entire week on it and it's kind made a dent in my schedule. Which is of course very concerning. I want to be able to finish 4 games, 2 apps and 1 website by the end of 2020... so I better get a move on in learning by doing. I have to forgive myself and my foundational programming thinking and just... take my time. Nothing is going to waste. Everytime I feel I spent an eternity on a stupidly simple problem, I have to tell myself I'm starting from scratch here, there's no need to be defeatist. Sigh.
+
+**Thoughts**: I need to divvy up the work better. I was hoping I'd finish CS50 by end July, but with my progress it might end up mid August which is not good for my schedule. By tomorrow I'll make the Sugarcube tutorials and C# tutorials more seriously. And strictly allott 1 hour for CS50.
