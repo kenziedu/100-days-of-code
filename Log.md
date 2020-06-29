@@ -46,3 +46,8 @@ I watched the CS50 Week 3 shorts and looked at the Plurality problem set. It see
 **Today's Progress**: Wow... did I say 2 days ago that I was encouraged? Well... This next PSET is doing the roundabout on me and driving me a little crazy. I think I'm gonna take an entire week on it and it's kind made a dent in my schedule. Which is of course very concerning. I want to be able to finish 4 games, 2 apps and 1 website by the end of 2020... so I better get a move on in learning by doing. I have to forgive myself and my foundational programming thinking and just... take my time. Nothing is going to waste. Everytime I feel I spent an eternity on a stupidly simple problem, I have to tell myself I'm starting from scratch here, there's no need to be defeatist. Sigh.
 
 **Thoughts**: I need to divvy up the work better. I was hoping I'd finish CS50 by end July, but with my progress it might end up mid August which is not good for my schedule. By tomorrow I'll make the Sugarcube tutorials and C# tutorials more seriously. And strictly allott 1 hour for CS50.
+
+### Day 8: June 29, 2020 (Monday)
+**Today's Progress**: I decided to be kind today and give myself a break. Admittedly I was a lot frustrated by the past two days. I thought I could've finished everything by Sunday, but to no avail. I think it'd be smart to give my brain a but of breathing room. In place of codings stuff, I listened to a CodeNewbie podcast and CSS materials from FreeCodeCamp.
+
+**Thoughts**: I was thinking I might have bitten off more than I can chew, especially since my freelance business is getting up and running again. But no - I don't wanna abandon another thing like this again. Not again.
