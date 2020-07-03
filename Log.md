@@ -58,3 +58,8 @@ I watched the CS50 Week 3 shorts and looked at the Plurality problem set. It see
 Another thing - the Runoff problem I have been agonizing over for the past 2 weeks? Wow... I mostly got the feel of the code right once I ran it through check50. I hit at least one green for each function, running in my code the first time! I should have done that to feel encouraged even if I was slogging it through 2 of 6 functions! Right now I'm looking through edX discussions to see anything I'm missing for the tailend. And I'm encouraged once again!
 
 **Thoughts**: I am starting to fret that my dream to be in the video game industry is all for naught. Everyone is taking a corporate sales job left and right. I'm afraid I'm doing something weird and fail, like I have many times before, starting a new "career." But I read some very encouraging stories. Is 27 too old to start in this? I know that I'm fretting about it through this whole 100 days of code thing, but I hope I push past that worry.
+
+### Day 10: July 3, 2020 (Friday)
+**Today's Progress**: Today I watched CS50 Lecture 4, and watched tutorials on Sugarcube. It's a little frustrating that I started out in Harlowe. I already started to see how clunky and uncustomizable it was, so I think it's safe to drop it, especialally since I know what type of game I want to make.
+
+**Thoughts**: I'm pretty ok with my freelance load right now. I was looking at QA Roles that can be done remote, just to add more "real" experience. I'm jsut afraid it will rob me of time off of learning, but something that will structure my schedule a bit better might benefit me more. Hmmm.
