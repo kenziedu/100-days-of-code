@@ -63,3 +63,14 @@ Another thing - the Runoff problem I have been agonizing over for the past 2 wee
 **Today's Progress**: Today I watched CS50 Lecture 4, and watched tutorials on Sugarcube. It's a little frustrating that I started out in Harlowe. I already started to see how clunky and uncustomizable it was, so I think it's safe to drop it, especialally since I know what type of game I want to make.
 
 **Thoughts**: I'm pretty ok with my freelance load right now. I was looking at QA Roles that can be done remote, just to add more "real" experience. I'm jsut afraid it will rob me of time off of learning, but something that will structure my schedule a bit better might benefit me more. Hmmm.
+
+### Day 11: July 4, 2020 (Saturday)
+**Today's Progress**: The new CS50 lecture was a bit of information overload. Decided to break up the lecture further and watch the shorts. LOTS of new topics, yikes.
+
+**Thoughts**: So far, so good. Just to make this coding journey real, I'm thinking of applyling in a QA role in this WFH setup.
+
+### Day 12: July 5, 2020 (Sunday)
+**Today's Progress**: I dusted off a basic coding for game design textbook I bought a couple of years ago. I can't believe I bought it then and meant to bring it along to study while I was on project. I think I made the right call to step back and take CS50. I was so flabbergasted by the C# course I took - it was simple but connecting things together proved difficult for me. I needed a computer science mindset, and I think that's exactly what CS50 has been able to do for me. As well as the basic HTML/CSS courses I did. This book that looked like alien language to me looks like a breeze now.
+
+**Thoughts**: I'm still very unsure about this career choice, but when I think about it, I've been the same way about my last two jobs. It's just in my nature to dive in and learn on the go, I guess.
+**Thoughts**: So far, so good. Just to make t
