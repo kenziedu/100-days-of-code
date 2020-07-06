@@ -73,4 +73,8 @@ Another thing - the Runoff problem I have been agonizing over for the past 2 wee
 **Today's Progress**: I dusted off a basic coding for game design textbook I bought a couple of years ago. I can't believe I bought it then and meant to bring it along to study while I was on project. I think I made the right call to step back and take CS50. I was so flabbergasted by the C# course I took - it was simple but connecting things together proved difficult for me. I needed a computer science mindset, and I think that's exactly what CS50 has been able to do for me. As well as the basic HTML/CSS courses I did. This book that looked like alien language to me looks like a breeze now.
 
 **Thoughts**: I'm still very unsure about this career choice, but when I think about it, I've been the same way about my last two jobs. It's just in my nature to dive in and learn on the go, I guess.
-**Thoughts**: So far, so good. Just to make t
+
+### Day 13: July 6, 2020 (Monday)
+**Today's Progress**: Hoo boy. I think I bit off more than I can chew with all these tutorials I am following. Today I did the FutureLearn "Make Expressive Games" tutorial which I think is perfect for me as someone who would prefer to use Unity for simple and narrative 2D games. I think that should take a back-seat because maybe I could make these in JavaScript anyway. So I gotta stick to CS50 and The Gamer's Guide to Coding. I think Unity can take a backseat for now. I wouldn't say it was time wasted - at least I know!
+
+**Thoughts**: Overwhelmed by all the choices! Ross is trying to put together a dress up game, which is a rather simple drag and drop function. I decide it's best to address this with JavaScript, CSS, and HTML.
