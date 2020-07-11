@@ -78,3 +78,9 @@ Another thing - the Runoff problem I have been agonizing over for the past 2 wee
 **Today's Progress**: Hoo boy. I think I bit off more than I can chew with all these tutorials I am following. Today I did the FutureLearn "Make Expressive Games" tutorial which I think is perfect for me as someone who would prefer to use Unity for simple and narrative 2D games. I think that should take a back-seat because maybe I could make these in JavaScript anyway. So I gotta stick to CS50 and The Gamer's Guide to Coding. I think Unity can take a backseat for now. I wouldn't say it was time wasted - at least I know!
 
 **Thoughts**: Overwhelmed by all the choices! Ross is trying to put together a dress up game, which is a rather simple drag and drop function. I decide it's best to address this with JavaScript, CSS, and HTML.
+
+### Day 14: July 11, 2020 (Saturday)
+**Today's Progress**: Auntie Flo wasn't kind this month. Hopefully I'm back on track. I did more chapters on the book, complemented it with JS tutorials on FreeCodeCamp, and doing my tweaks on the Twine code.
+
+**Thoughts**: I applied to 2 game production roles. I do think I have the project management and business development skills required of the role. I just hope that they can see that. 
+
