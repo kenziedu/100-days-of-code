@@ -82,5 +82,10 @@ Another thing - the Runoff problem I have been agonizing over for the past 2 wee
 ### Day 14: July 11, 2020 (Saturday)
 **Today's Progress**: Auntie Flo wasn't kind this month. Hopefully I'm back on track. I did more chapters on the book, complemented it with JS tutorials on FreeCodeCamp, and doing my tweaks on the Twine code.
 
-**Thoughts**: I applied to 2 game production roles. I do think I have the project management and business development skills required of the role. I just hope that they can see that. 
+**Thoughts**: I applied to 2 game production roles. I do think I have the project management and business development skills required of the role. I just hope that they can see that.
+
+### Day 15: July 12, 2020 (Sunday)
+**Today's Progress**: Worked on A Noble Quest, trying to wrangle with the inventory system. I also took a peek at how to do a drag and drop game for Ross.
+
+**Thoughts**: I was beating myself up for being too late on those game jobs I wanted. I realize that I'm not ready. I need to focus on the skills I can bring to the table. I have 5 or so months to do that. Let's do this!
 
